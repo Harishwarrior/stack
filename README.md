@@ -1,6 +1,6 @@
 # CRED
 
-Assignment for CRED - Stack 
+CRED - Stack UI recreated in Flutter 
 
 ## Configuration
 - Flutter : 3.0.5
